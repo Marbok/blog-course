@@ -78,4 +78,4 @@
 
 ## Result topic
 
-Scala + Akka + specific technology (stores, message queues, deploy systems and etc.)
+Java + async programming (Netty, Spring WebFlux, Project Reactor, EventBase architectures)
